@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669651891280",
+    "project_id": "swe-rainers-rabbids",
+    "storage_bucket": "swe-rainers-rabbids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669651891280:android:99021e241a1d3c82914d55",
+        "android_client_info": {
+          "package_name": "com.rainerrabbids.swe_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669651891280-fre6q1n8ru4evfg9nh9jouvgvc19e0u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoRJPcyShvWIr82BqlFjcCbEa32Viyt4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669651891280-fre6q1n8ru4evfg9nh9jouvgvc19e0u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
